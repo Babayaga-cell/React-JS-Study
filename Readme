@@ -1,3 +1,7 @@
+$ npm create vite@latest my-react-app -- --template react
+
+https://via.placeholder.com/150
+
 When it is not working try this command for creating react project:
 
 rm -rf node_modules package-lock.json
