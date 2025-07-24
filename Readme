@@ -1,0 +1,5 @@
+When it is not working try this command for creating react project:
+
+rm -rf node_modules package-lock.json
+npm install node
+sudo npm install n -g
